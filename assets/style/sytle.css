@@ -398,3 +398,14 @@ a.bt:active{}
 	transition-duration: .2s;
 	display: none;
 }
+
+
+
+@media screen and (max-width: 400px){
+	.boxImg:hover .text h1{
+		margin-top: 0;
+	}
+	.boxImg:hover .text h1{
+		margin-top: 10%;
+	}
+}
